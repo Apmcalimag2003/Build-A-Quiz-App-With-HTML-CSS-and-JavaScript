@@ -1,6 +1,6 @@
 # Build a Quiz App with HTML, CSS, and JavaScript
 
-//sample commit
+//sample commit...
 
 ![Home Screen](./images/cover.png)
 
